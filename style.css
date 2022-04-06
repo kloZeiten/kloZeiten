@@ -18,24 +18,24 @@
 
 .klozeiten_Pic
 {
-  text-align: center;
+    text-align: center;
+    margin-top: 5%;
 }
 
 .background_Elements_Style
 {
+  font-size: 30pt;
 
 }
 
 .background_WC01_Style
 {
-  font-size: 30pt;
   position: relative;
   animation-name: left_2_Right;
   animation-duration: 1s;
 }
 .background_WC02_Style
 {
-  font-size: 30pt;
   transform: scaleX(-1);
   position: relative;
   animation-name: right_2_left;
